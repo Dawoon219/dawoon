@@ -1,4 +1,4 @@
 # dawoon
-Hello :)
+Hello
 WINS
 Learning GIthub
