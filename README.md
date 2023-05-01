@@ -1,3 +1,4 @@
 # dawoon
-Hello :)
+Hello
 WINS
+Monday
